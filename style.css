@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font:500 2rem "Raleway";
+}
+input[type = submit]{
+    color:rgba(2, 9, 14, 0.9);
+    border: none;
+    outline: none;
+    font-size: 30px;
+    
+}
